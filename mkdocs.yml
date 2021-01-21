@@ -1,0 +1,34 @@
+site_name: "COVID Facts"
+nav:
+    - 'What is COVID?': index.md
+    - 'Spread': spread.md
+    - 'Testing': tests.md
+    - 'Statistics': statistics.md
+    - 'Vaccines': vaccines.md
+    - 'Lockdowns': lockdowns.md
+    - 'Conclusion': conclusion.md
+markdown_extensions:
+    - toc:
+        permalink: "#"
+theme:
+    name: "material"
+    language: en
+    palette:
+      primary: indigo
+    icon:
+      logo: fontawesome/solid/head-side-virus
+    shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+    features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.sections
+        - search.suggest
+        - search.highlight
+        - search.share
+    extra:
+      generator: false
