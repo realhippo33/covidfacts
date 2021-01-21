@@ -13,7 +13,12 @@ Notice how the green line on the right only starts showing after a CT of 36 and 
 
 The CT count is not reported on COVID-19 tests in Australia, you might be able to get it if you ask.
 
+> [Understanding cycle threshold (Ct) in SARS-CoV-2 RT-PCR - page 6](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/926410/Understanding_Cycle_Threshold__Ct__in_SARS-CoV-2_RT-PCR_.pdf)
+>
+> "RT-PCR detects presence of viral genetic material in a sample but is not able to distinguish whether infectious virus is present."
+
 #### References
 - [COVID-19 testing in Australia - information for health professionals](https://www.tga.gov.au/covid-19-testing-australia-information-health-professionals)
 - [Real Time PCR Ct Values](https://www.wvdl.wisc.edu/wp-content/uploads/2013/01/WVDL.Info_.PCR_Ct_Values1.pdf)
 - [An Overview of Cycle Threshold Values and their Role in SARS-CoV-2 Real-Time PCR Test Interpretation](https://www.publichealthontario.ca/-/media/documents/ncov/main/2020/09/cycle-threshold-values-sars-cov2-pcr.pdf?la=en)
+- [Understanding cycle threshold (Ct) in SARS-CoV-2 RT-PCR](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/926410/Understanding_Cycle_Threshold__Ct__in_SARS-CoV-2_RT-PCR_.pdf)

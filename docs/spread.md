@@ -58,7 +58,7 @@ Yes it does not make any logical sense - it's politicians you are dealing with.
 
 ## What does slow the curve mean?
 
-Nothing. It is someone came up with and the media ran along with.
+Nothing. It is something someone dreamed up and the media ran along with.
 
 ## I'm sick of staying in all the time, I want to go out
 

@@ -4,7 +4,7 @@ nav:
     - 'Spread': spread.md
     - 'Testing': tests.md
     - 'Statistics': statistics.md
-    - 'Vaccines': vaccines.md
+    #- 'Vaccines': vaccines.md
     - 'Lockdowns': lockdowns.md
     - 'Conclusion': conclusion.md
 markdown_extensions:
