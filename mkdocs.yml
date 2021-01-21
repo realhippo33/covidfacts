@@ -1,6 +1,6 @@
 site_name: "COVID Facts"
 nav:
-    - 'What is COVID?': index.md
+    - 'What is COVID-19?': index.md
     - 'Spread': spread.md
     - 'Testing': tests.md
     - 'Statistics': statistics.md
@@ -10,6 +10,8 @@ nav:
 markdown_extensions:
     - toc:
         permalink: "#"
+        toc_depth: 3
+        permalink: true
 theme:
     name: "material"
     language: en
@@ -23,9 +25,6 @@ theme:
         previous: 80 # p
         search: 83   # s
     features:
-        - navigation.instant
-        - navigation.tabs
-        - navigation.tabs.sticky
         - navigation.sections
         - search.suggest
         - search.highlight

@@ -1,4 +1,4 @@
-# Can I conclude something from all this information
+## Can I conclude something from all this information
 
 At the next election, do not vote for politicians not caring about destroying thousands of peoples life, businesses and mental health.
 

@@ -1,4 +1,4 @@
-# How is the Government allowed to destroy my job/company?
+## How is the Government allowed to destroy my job/company?
 
 - nsw
   - sec 7 PHA 2010
@@ -6,11 +6,11 @@
 
 [NSW Legislations](https://www.legislation.nsw.gov.au/information/covid19-legislation)
 
-# How much is this exercise costing the economy?
+## How much is this exercise costing the economy?
 
-# How much money per person is that equallent?
+## How much money per person is that equallent?
 
-# How can we get rid of the legislation that allows lockdown/ups?
+## How can we get rid of the legislation that allows lockdown/ups?
 
 - let your local senate member know
 - don't vote for power hungry people
@@ -18,27 +18,27 @@
 - vote for people not on pharma boards
 - vote for people that like small business to thrive
 
-# I do not enjoy life that much. I want more restrictions, what can I do?
+## I do not enjoy life that much. I want more restrictions, what can I do?
 
 - stay indoors
 
-# Isn't the lockdowns more like lock ups?
+## Isn't the lockdowns more like lock ups?
 
 Just shut up shitizen and do what you're told.
 
-# It is always busy at the big box stores, how is that?
+## It is always busy at the big box stores, how is that?
 
 - The NSW government is really keen on getting rid of small business, after all they do not lobby and fund their respective parties
 - often they consultant jobs in the private sector when they are out of politics
   - company a pays a mill retainer for a multi mill return previously
 
-# Does freedon mean I have to take risks in life?
+## Does freedon mean I have to take risks in life?
 
 Yes, freedom is not free. To be free will mean you as a THINKING person has to a risk analysis in realtime.
 
 - gmail/facebook/twitter/twitch etc. are not free - they sell data you generate to some sucker advertiser that believes their pitch. It's expensive
 
-# Does the government want to steal my money?
+## Does the government want to steal my money?
 
 Yes. It's what they do. Without your money, they cannot increase their influence into your life and pay themselves.
 

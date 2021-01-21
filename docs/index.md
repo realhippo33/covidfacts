@@ -1,6 +1,6 @@
-# What is COVID19?
+## What is COVID-19?
 
-COVID19 is a form of corona virus, a name given to a family of viruses - these include the COMMON COLD.
+COVID-19 is a form of corona virus, a name given to a family of viruses - these include the COMMON COLD.
 
 Remember SARS (2002) & MERS (2012)? These are also corona viruses.
 
@@ -8,7 +8,7 @@ Remember SARS (2002) & MERS (2012)? These are also corona viruses.
 
 - [Coronaviruses: New to Humanity but Not New to The World](https://scholarblogs.emory.edu/techtransfer/2020/11/coronaviruses-new-to-humanity-but-not-new-to-the-world/)
 
-# Where does COVID19 come from?
+## Where does COVID-19 come from?
 
 No body knows for sure.
 
@@ -20,7 +20,7 @@ Some say from bats. Remember SARS? The classic explanation for virus origins.
 
 - [Where Did the SARS Coronavirus Come From?](https://askabiologist.asu.edu/plosable/SARS-virus)
 
-# How do I know if I have COVID19?
+## How do I know if I have COVID-19?
 
 You have the normal cold symptoms AND
 
