@@ -39,7 +39,7 @@ Contact them here:
 
 ## Why do kids not have to wear a mask?
 
-COVID-19 is afraid of smaller humans and avoids them.
+COVID-19 is afraid of younger humans and avoids them.
 
 #### References
 
