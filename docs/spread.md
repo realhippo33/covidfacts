@@ -10,6 +10,7 @@ No.
 
 - [The Science is Conclusive: Masks and Respirators do NOT Prevent Transmission of Viruses](https://www.sott.net/article/434796-The-Science-is-Conclusive-Masks-and-Respirators-do-NOT-Prevent-Transmission-of-Viruses)
 - [Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers](files/Danish-Study.pdf)
+- [USA Mr AIDS and Covid - Anthony Faucy - on mask usage](https://static.noagendasocial.com/media_attachments/files/105/627/103/384/285/609/original/e7d79b2aff45736d.mp4)
 
 ## My neighbour does not adhere to the government orders, should I call the police?
 
